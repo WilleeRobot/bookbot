@@ -1,1 +1,1 @@
-# bookbot
+# Bookbot - a python-first project
